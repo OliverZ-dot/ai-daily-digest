@@ -1,150 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/394169.html",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.00818",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.29199",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.28902",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.28986",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.29211",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2508.08115",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.21035",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.16635",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.28902",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.28928",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://openai.com/index/gradient-labs",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/394516.html",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/394177.html",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/394547.html",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/394530.html",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/394373.html",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.29405",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.29450",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.10788",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.22715",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.26738",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.28990",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.29020",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.29085",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.29139",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.29152",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/394554.html",
-      "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-      "date": "2026-04-01"
-    },
-    {
       "url": "https://www.qbitai.com/2026/04/394570.html",
       "date": "2026-04-02"
     },
@@ -855,6 +711,58 @@
     {
       "url": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
       "date": "2026-04-08"
+    },
+    {
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/398020.html",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.05418",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.05620",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.06156",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.05831",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.04937",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.03054",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.04937",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.04938",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.05018",
+      "date": "2026-04-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.05075",
+      "date": "2026-04-09"
     }
   ]
 }
