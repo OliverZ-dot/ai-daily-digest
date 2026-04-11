@@ -1,134 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/395206.html",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00013",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00493",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00528",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.28183",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2506.18919",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.01020",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.16082",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.24639",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.24639",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.16082",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/395279.html",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/395307.html",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/395210.html",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/395216.html",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.01754",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.03111",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.18123",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.17585",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00310",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.01576",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.16673",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00005",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00085",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00137",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/395916.html",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
-      "date": "2026-04-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/395477.html",
-      "date": "2026-04-03"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
       "date": "2026-04-04"
     },
@@ -839,6 +711,58 @@
     {
       "url": "https://www.qbitai.com/2026/04/399366.html",
       "date": "2026-04-10"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/399393.html",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/399473.html",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/399417.html",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.11635",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.07692",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.08065",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.08110",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.08333",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.06696",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.06747",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.06779",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.07003",
+      "date": "2026-04-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.07236",
+      "date": "2026-04-11"
     }
   ]
 }
