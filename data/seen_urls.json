@@ -1,38 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/04/396351.html",
-      "date": "2026-04-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/396358.html",
-      "date": "2026-04-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/396366.html",
-      "date": "2026-04-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/396535.html",
-      "date": "2026-04-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/396533.html",
-      "date": "2026-04-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/396517.html",
-      "date": "2026-04-05"
-    },
-    {
-      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-      "date": "2026-04-05"
-    },
-    {
-      "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-      "date": "2026-04-05"
-    },
-    {
       "url": "https://arxiv.org/abs/2604.02492",
       "date": "2026-04-06"
     },
@@ -727,6 +695,50 @@
     {
       "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
       "date": "2026-04-12"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/400306.html",
+      "date": "2026-04-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09338",
+      "date": "2026-04-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.08645",
+      "date": "2026-04-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.07720",
+      "date": "2026-04-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.04072",
+      "date": "2026-04-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.08645",
+      "date": "2026-04-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09338",
+      "date": "2026-04-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09482",
+      "date": "2026-04-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.08645",
+      "date": "2026-04-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09158",
+      "date": "2026-04-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09508",
+      "date": "2026-04-13"
     }
   ]
 }
