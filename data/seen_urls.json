@@ -1,102 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2604.02492",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02710",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2410.10238",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.03121",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.03179",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02971",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02652",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02694",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02783",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02652",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/396738.html",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/396704.html",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/396694.html",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/396675.html",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02816",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02733",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02967",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02450",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02689",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02334",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02434",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02478",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02500",
-      "date": "2026-04-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02617",
-      "date": "2026-04-06"
-    },
-    {
       "url": "https://openai.com/index/introducing-openai-safety-fellowship",
       "date": "2026-04-07"
     },
@@ -807,6 +711,58 @@
     {
       "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
       "date": "2026-04-13"
+    },
+    {
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/401041.html",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.10985",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09712",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.11307",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09687",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09841",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09608",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.10169",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.10291",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.10386",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.11477",
+      "date": "2026-04-14"
     }
   ]
 }
