@@ -1,130 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/04/397710.html",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.03393",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.03660",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.04207",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.03374",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.03556",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.04261",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.04664",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.13218",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.12626",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.27817",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/397761.html",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/397922.html",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/397915.html",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/397912.html",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/397898.html",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/397881.html",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.05887",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.05681",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.06138",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.05364",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.05497",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.05681",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.04942",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2506.22653",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.07432",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2409.19894",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/398001.html",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
-      "date": "2026-04-08"
-    },
-    {
       "url": "https://openai.com/index/next-phase-of-enterprise-ai",
       "date": "2026-04-09"
     },
@@ -811,6 +687,74 @@
     {
       "url": "https://www.qbitai.com/2026/04/401512.html",
       "date": "2026-04-15"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/401554.html",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/401541.html",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/401523.html",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.13060",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.13804",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.12320",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.12379",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.25758",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.13602",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.13079",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.13759",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.11914",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.11969",
+      "date": "2026-04-16"
     }
   ]
 }
