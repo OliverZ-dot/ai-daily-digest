@@ -1,22 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/04/399903.html",
-      "date": "2026-04-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/399975.html",
-      "date": "2026-04-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/399681.html",
-      "date": "2026-04-12"
-    },
-    {
-      "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-      "date": "2026-04-12"
-    },
-    {
       "url": "https://www.qbitai.com/2026/04/400306.html",
       "date": "2026-04-13"
     },
@@ -735,6 +719,50 @@
     {
       "url": "https://www.qbitai.com/2026/04/403308.html",
       "date": "2026-04-19"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/403226.html",
+      "date": "2026-04-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.16060",
+      "date": "2026-04-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.15994",
+      "date": "2026-04-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.13131",
+      "date": "2026-04-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.16022",
+      "date": "2026-04-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.15411",
+      "date": "2026-04-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.15951",
+      "date": "2026-04-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.15972",
+      "date": "2026-04-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.16022",
+      "date": "2026-04-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.15411",
+      "date": "2026-04-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.16004",
+      "date": "2026-04-20"
     }
   ]
 }
