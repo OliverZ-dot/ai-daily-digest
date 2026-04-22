@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401041.html",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.10985",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.09712",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11307",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.09687",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.09841",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.09608",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.10169",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.10291",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.10386",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11477",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401190.html",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401127.html",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401094.html",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401065.html",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.09907",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.09665",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.09665",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.27960",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11716",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11540",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11716",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11741",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.09665",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.09679",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-      "date": "2026-04-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401202.html",
-      "date": "2026-04-14"
-    },
-    {
       "url": "https://www.qbitai.com/2026/04/401333.html",
       "date": "2026-04-15"
     },
@@ -851,6 +735,62 @@
     {
       "url": "https://www.qbitai.com/2026/04/404096.html",
       "date": "2026-04-21"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/404130.html",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/404167.html",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.18955",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.06211",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.19689",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.19092",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.19093",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.18946",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.19172",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.19457",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.19523",
+      "date": "2026-04-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.19689",
+      "date": "2026-04-22"
     }
   ]
 }
