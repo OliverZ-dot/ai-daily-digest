@@ -1,126 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/04/401333.html",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12384",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12102",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12213",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12762",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.08291",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12102",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12126",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12184",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12213",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12250",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401389.html",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://huggingface.co/blog/Hcompany/holotab",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401507.html",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401484.html",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401479.html",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401367.html",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11734",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12812",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11835",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11996",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12033",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12717",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12948",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12076",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12374",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.07595",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
-      "date": "2026-04-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401512.html",
-      "date": "2026-04-15"
-    },
-    {
       "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
       "date": "2026-04-16"
     },
@@ -863,6 +743,78 @@
     {
       "url": "https://www.qbitai.com/2026/04/404713.html",
       "date": "2026-04-22"
+    },
+    {
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://openai.com/academy/workspace-agents",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/404645.html",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/405325.html",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.20659",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.20659",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.19176",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.20665",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.07044",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.19775",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.20039",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.20254",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.20273",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.19756",
+      "date": "2026-04-23"
     }
   ]
 }
