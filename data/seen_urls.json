@@ -1,154 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401554.html",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401541.html",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401523.html",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.13060",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.13804",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12320",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12379",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.25758",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.13602",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.13079",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.13759",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11914",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11969",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401655.html",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401719.html",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401714.html",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401710.html",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401705.html",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/401682.html",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.02627",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.10200",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.21652",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.00181",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.01236",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11978",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12007",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12016",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12019",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12066",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "date": "2026-04-16"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
       "date": "2026-04-17"
     },
@@ -887,6 +739,70 @@
     {
       "url": "https://www.qbitai.com/2026/04/406020.html",
       "date": "2026-04-23"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/04/406221.html",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21896",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.21697",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21102",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21277",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21346",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.20987",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21444",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21794",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.20904",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.17085",
+      "date": "2026-04-24"
     }
   ]
 }
