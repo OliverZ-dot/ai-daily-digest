@@ -1,158 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/406221.html",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.21896",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.21697",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.21102",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.21277",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.21346",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.20987",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.21444",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.21794",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.20904",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.17085",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/406760.html",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/406802.html",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/406791.html",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/406359.html",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/406393.html",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/406775.html",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.21910",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.23744",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.20697",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.18164",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.20682",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.05019",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.20316",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.20995",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.21003",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.21006",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/04/406806.html",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "date": "2026-04-24"
-    },
-    {
       "url": "https://arxiv.org/abs/2602.10312",
       "date": "2026-04-25"
     },
@@ -975,6 +823,10 @@
     {
       "url": "https://www.qbitai.com/2026/05/412585.html",
       "date": "2026-05-01"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/412713.html",
+      "date": "2026-05-02"
     }
   ]
 }
