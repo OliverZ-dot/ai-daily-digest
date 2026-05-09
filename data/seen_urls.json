@@ -1,134 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27389",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.28123",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.28182",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.28039",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27251",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.28182",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27132",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27221",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27586",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.28043",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/412577.html",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/412447.html",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.28076",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2506.02515",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2506.07180",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.08611",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.00937",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.07408",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27096",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27150",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27151",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27228",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/412696.html",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/412597.html",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/412585.html",
-      "date": "2026-05-01"
-    },
-    {
       "url": "https://www.qbitai.com/2026/05/412713.html",
       "date": "2026-05-02"
     },
@@ -711,6 +583,30 @@
     {
       "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
       "date": "2026-05-08"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/414432.html",
+      "date": "2026-05-09"
+    },
+    {
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "date": "2026-05-09"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/414496.html",
+      "date": "2026-05-09"
+    },
+    {
+      "url": "https://openai.com/index/running-codex-safely",
+      "date": "2026-05-09"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/414445.html",
+      "date": "2026-05-09"
+    },
+    {
+      "url": "https://huggingface.co/blog/allenai/emo",
+      "date": "2026-05-09"
     }
   ]
 }
