@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/05/412713.html",
-      "date": "2026-05-02"
-    },
-    {
       "url": "https://www.qbitai.com/2026/05/412737.html",
       "date": "2026-05-03"
     },
@@ -639,6 +635,14 @@
     {
       "url": "https://www.qbitai.com/2026/05/415027.html",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "date": "2026-05-10"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/415031.html",
+      "date": "2026-05-10"
     }
   ]
 }
