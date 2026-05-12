@@ -1,90 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2604.19098",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00184",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00677",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00392",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.01955",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00742",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.26020",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00069",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00155",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00185",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/412914.html",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00300",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2506.00166",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00206",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00370",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00419",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00206",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00264",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00281",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00365",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.00370",
-      "date": "2026-05-04"
-    },
-    {
       "url": "https://openai.com/index/openai-pwc-finance-collaboration",
       "date": "2026-05-05"
     },
@@ -743,6 +659,66 @@
     {
       "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/416034.html",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.10616",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.09266",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.09883",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.08445",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.09395",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.08178",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.08704",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.08904",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.08930",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.08978",
+      "date": "2026-05-12"
     }
   ]
 }
