@@ -1,14 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
-      "date": "2026-05-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/415031.html",
-      "date": "2026-05-10"
-    },
-    {
       "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
       "date": "2026-05-11"
     },
@@ -819,6 +811,46 @@
     {
       "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.16069",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15203",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15342",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15777",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15532",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15204",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15301",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15315",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15777",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15967",
+      "date": "2026-05-18"
     }
   ]
 }
