@@ -1,150 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/416034.html",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10616",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09266",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09883",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.08445",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09395",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.08178",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.08704",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.08904",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.08930",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.08978",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/416590.html",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/416582.html",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/416540.html",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/416081.html",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/416339.html",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/416056.html",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10286",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.08800",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09874",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2503.06047",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.08142",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09045",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09278",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09675",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09769",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09879",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/416597.html",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
-      "date": "2026-05-12"
-    },
-    {
       "url": "https://www.qbitai.com/2026/05/416628.html",
       "date": "2026-05-13"
     },
@@ -919,6 +775,78 @@
     {
       "url": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/420531.html",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.18856",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.19559",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.01499",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.01499",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.15435",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.19035",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.19418",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.19604",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.19824",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.18838",
+      "date": "2026-05-20"
     }
   ]
 }
