@@ -1,134 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417469.html",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11651",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12953",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13172",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27389",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13171",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12991",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12991",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12718",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13037",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13213",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417753.html",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417791.html",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417754.html",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417748.html",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417468.html",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417488.html",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13290",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12524",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12684",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12703",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.07342",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13534",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13579",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12520",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12532",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12571",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "date": "2026-05-14"
-    },
-    {
       "url": "https://openai.com/index/work-with-codex-from-anywhere",
       "date": "2026-05-15"
     },
@@ -931,6 +803,70 @@
     {
       "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
       "date": "2026-05-21"
+    },
+    {
+      "url": "https://openai.com/index/adventhealth",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/422455.html",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/422511.html",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/422088.html",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/422127.html",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.21482",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.21446",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.21565",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.22529",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.20525",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.21482",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.07926",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.19320",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.21516",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.21801",
+      "date": "2026-05-22"
     }
   ]
 }
