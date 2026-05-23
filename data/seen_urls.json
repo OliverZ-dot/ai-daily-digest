@@ -1,142 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://openai.com/index/sea-david-chen",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417935.html",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.20571",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.07045",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14002",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14218",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14504",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14002",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14034",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14163",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14259",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14389",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/418135.html",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/418140.html",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417961.html",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/418035.html",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417968.html",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/418027.html",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/417965.html",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14537",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14113",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.02837",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.27517",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14113",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14537",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14857",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14892",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15040",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14084",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
-      "date": "2026-05-15"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
       "date": "2026-05-16"
     },
@@ -943,6 +807,14 @@
     {
       "url": "https://www.qbitai.com/2026/05/422811.html",
       "date": "2026-05-22"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/423159.html",
+      "date": "2026-05-23"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "date": "2026-05-23"
     }
   ]
 }
