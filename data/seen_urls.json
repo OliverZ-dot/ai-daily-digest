@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2605.16069",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15203",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15342",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15777",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15532",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15204",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15301",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15315",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15777",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15967",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/419386.html",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/419528.html",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/419515.html",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/419414.html",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15542",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15461",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15672",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15764",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2503.02597",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16205",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15565",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.06390",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15207",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15239",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/419585.html",
-      "date": "2026-05-18"
-    },
-    {
       "url": "https://www.qbitai.com/2026/05/419822.html",
       "date": "2026-05-19"
     },
@@ -827,6 +711,50 @@
     {
       "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
       "date": "2026-05-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/424851.html",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.24050",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.25707",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.24873",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.02837",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.24873",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.23939",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.24005",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.24197",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.24468",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.24486",
+      "date": "2026-05-26"
     }
   ]
 }
