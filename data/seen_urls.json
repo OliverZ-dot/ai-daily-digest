@@ -1,158 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/420531.html",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2410.18856",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19559",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.01499",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.01499",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.15435",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19035",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19418",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19604",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19824",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.18838",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/420703.html",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/420698.html",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/420681.html",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19382",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.18763",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.18780",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.18868",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19130",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19314",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19338",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19352",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19538",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19634",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/420753.html",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/420743.html",
-      "date": "2026-05-20"
-    },
-    {
       "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
       "date": "2026-05-21"
     },
@@ -723,6 +571,58 @@
     {
       "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
       "date": "2026-05-27"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.27932",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.27932",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.27820",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.28160",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.04540",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.27567",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.27622",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.27785",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.27853",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.28077",
+      "date": "2026-05-28"
     }
   ]
 }
