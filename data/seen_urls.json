@@ -1,158 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/420761.html",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20416",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20815",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.23292",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19444",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19723",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19722",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20075",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.05746",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.17305",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.22569",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422009.html",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/421697.html",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422068.html",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422032.html",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422001.html",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422002.html",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/421694.html",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12374",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20104",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.09872",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.08510",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20555",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10344",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20408",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20784",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20834",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.06511",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "date": "2026-05-21"
-    },
-    {
       "url": "https://openai.com/index/adventhealth",
       "date": "2026-05-22"
     },
@@ -711,6 +559,66 @@
     {
       "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
       "date": "2026-05-28"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/426237.html",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/426314.html",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://openai.com/index/endava",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/426353.html",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/426293.html",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29833",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29001",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29001",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29568",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29744",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29116",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29262",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29512",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29705",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29796",
+      "date": "2026-05-29"
     }
   ]
 }
