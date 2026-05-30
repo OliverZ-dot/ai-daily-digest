@@ -1,146 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/adventhealth",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422455.html",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422511.html",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422088.html",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422127.html",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.21482",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.21446",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.21565",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.22529",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20525",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.21482",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.07926",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.19320",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.21516",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.21801",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422624.html",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422738.html",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422615.html",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.20912",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.14184",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.07731",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.22168",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.22300",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.22566",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.22138",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.22658",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.23773",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.13372",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/422811.html",
-      "date": "2026-05-22"
-    },
-    {
       "url": "https://www.qbitai.com/2026/05/423159.html",
       "date": "2026-05-23"
     },
@@ -695,6 +555,18 @@
     {
       "url": "https://www.qbitai.com/2026/05/426557.html",
       "date": "2026-05-29"
+    },
+    {
+      "url": "https://openai.com/index/braintrust",
+      "date": "2026-05-30"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/426643.html",
+      "date": "2026-05-30"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "date": "2026-05-30"
     }
   ]
 }
