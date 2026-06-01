@@ -1,18 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/05/423390.html",
-      "date": "2026-05-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/423382.html",
-      "date": "2026-05-24"
-    },
-    {
-      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "date": "2026-05-24"
-    },
-    {
       "url": "https://www.qbitai.com/2026/05/424277.html",
       "date": "2026-05-25"
     },
@@ -587,6 +575,50 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
       "date": "2026-05-31"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.31251",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.30900",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.31410",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.23292",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.23292",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.30838",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.30738",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.31354",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.31370",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.30632",
+      "date": "2026-06-01"
     }
   ]
 }
