@@ -75,7 +75,7 @@
 | 🔁 **智能去重** | 7天内看过的内容不再重复推送 |
 | 🌐 **17+ 顶级信息源** | OpenAI、Anthropic、DeepMind、Meta AI、arXiv、量子位、机器之心… |
 | 🆓 **完全免费运行** | GitHub Actions 免费额度 + Server酱免费计划，每月约 ¥1~6 |
-| 📁 **Markdown 存档** | 每次推送自动保存到 `archive/`，本地全文检索 |
+| 📁 **Markdown 存档** | 每次推送自动保存至 `archive/`，本地全文检索 |
 
 ---
 
