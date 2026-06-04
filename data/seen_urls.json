@@ -1,78 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/05/425523.html",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/425150.html",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11651",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.26177",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2505.17163",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2505.17163",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27134",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27134",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27209",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27320",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27355",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.26177",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
-      "date": "2026-05-27"
-    },
-    {
-      "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
-      "date": "2026-05-27"
-    },
-    {
       "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
       "date": "2026-05-28"
     },
@@ -683,6 +611,74 @@
     {
       "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
       "date": "2026-06-03"
+    },
+    {
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://openai.com/index/wasmer",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/428791.html",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/428648.html",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/428790.html",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/428778.html",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/428752.html",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.04244",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.05722",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.04244",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.04168",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.12329",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.04223",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.04435",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.04627",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.04751",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.04823",
+      "date": "2026-06-04"
     }
   ]
 }
