@@ -1,146 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27932",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27932",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27820",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.28160",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2504.04540",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27567",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27622",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27785",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27853",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.28077",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426150.html",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426223.html",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426198.html",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426069.html",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.17003",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27595",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27796",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27906",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.28224",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.28192",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.28224",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.28354",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.28532",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.28699",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
-      "date": "2026-05-28"
-    },
-    {
       "url": "https://www.qbitai.com/2026/05/426237.html",
       "date": "2026-05-29"
     },
@@ -771,6 +631,58 @@
     {
       "url": "https://www.qbitai.com/2026/06/429186.html",
       "date": "2026-06-04"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/429285.html",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05531",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05718",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.04442",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.04708",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.14054",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.05277",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05263",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05704",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.03217",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.02031",
+      "date": "2026-06-05"
     }
   ]
 }
