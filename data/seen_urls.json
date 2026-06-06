@@ -1,142 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/05/426237.html",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426314.html",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://openai.com/index/endava",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426353.html",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426293.html",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29833",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29001",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29001",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29568",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29744",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29116",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29262",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29512",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29705",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29796",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426552.html",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426548.html",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426542.html",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426479.html",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426447.html",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29893",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.30002",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14113",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.30056",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2502.10330",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29801",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29893",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.30002",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.30136",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29224",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/426557.html",
-      "date": "2026-05-29"
-    },
-    {
       "url": "https://openai.com/index/braintrust",
       "date": "2026-05-30"
     },
@@ -767,6 +631,54 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
       "date": "2026-06-05"
+    },
+    {
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/431056.html",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05241",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05806",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05183",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05749",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05177",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.21700",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05806",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.05976",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.06036",
+      "date": "2026-06-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.06223",
+      "date": "2026-06-06"
     }
   ]
 }
