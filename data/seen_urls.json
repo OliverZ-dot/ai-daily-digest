@@ -1,82 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.31251",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.30900",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.31410",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.23292",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.23292",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.30838",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.30738",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.31354",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.31370",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.30632",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/427530.html",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/427516.html",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "date": "2026-06-01"
-    },
-    {
       "url": "https://www.qbitai.com/2026/06/427730.html",
       "date": "2026-06-02"
     },
@@ -779,6 +703,58 @@
     {
       "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
       "date": "2026-06-08"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/432735.html",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/432747.html",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/432631.html",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.08952",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.09669",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.03224",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.03224",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.07445",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.07808",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.08234",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.08310",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.08952",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.09039",
+      "date": "2026-06-09"
     }
   ]
 }
