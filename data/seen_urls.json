@@ -1,90 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/428407.html",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/428335.html",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03435",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03273",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03988",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03657",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.02812",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.02812",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.02862",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.02994",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03236",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03303",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/428703.html",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/428435.html",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-      "date": "2026-06-03"
-    },
-    {
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "date": "2026-06-04"
     },
@@ -867,6 +783,78 @@
     {
       "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
       "date": "2026-06-10"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/434317.html",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/434326.html",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/434316.html",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/434298.html",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/434267.html",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.11998",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.11770",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.12018",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.12207",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.19502",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.11349",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.11537",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.11634",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.11637",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.11724",
+      "date": "2026-06-11"
     }
   ]
 }
