@@ -1,166 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://openai.com/index/wasmer",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/428791.html",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/428648.html",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/428790.html",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/428778.html",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/428752.html",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04244",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.05722",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04244",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04168",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2504.12329",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04223",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04435",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04627",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04751",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04823",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://openai.com/index/endava-frontiers",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/429117.html",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/428954.html",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.21446",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16301",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16301",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04419",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.02655",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04806",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05009",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05025",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05158",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.02655",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/429192.html",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/429186.html",
-      "date": "2026-06-04"
-    },
-    {
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
       "date": "2026-06-05"
     },
@@ -883,6 +723,54 @@
     {
       "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
       "date": "2026-06-11"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/434733.html",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.13192",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.13020",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.12830",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.13572",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.06652",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.12852",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.13148",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.13197",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.13262",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.13392",
+      "date": "2026-06-12"
     }
   ]
 }
