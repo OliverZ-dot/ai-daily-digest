@@ -1,142 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/429285.html",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05531",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05718",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04442",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04708",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.14054",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.05277",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05263",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05704",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.03217",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.02031",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/431027.html",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/431033.html",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/430757.html",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/431014.html",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/430758.html",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/430752.html",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/429968.html",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/429711.html",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03660",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19225",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.17273",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.01138",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03307",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04037",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04202",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04246",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04261",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.04296",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/431045.html",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-      "date": "2026-06-05"
-    },
-    {
       "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
       "date": "2026-06-06"
     },
@@ -851,6 +715,14 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
       "date": "2026-06-12"
+    },
+    {
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "date": "2026-06-13"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/435339.html",
+      "date": "2026-06-13"
     }
   ]
 }
