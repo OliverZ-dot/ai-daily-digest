@@ -1,106 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/431056.html",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05241",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05806",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05183",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05749",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05177",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.21700",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05806",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05976",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06036",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06223",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/431287.html",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/431349.html",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/431186.html",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05702",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06322",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05383",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05966",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06217",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06388",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06448",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00555",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.21162",
-      "date": "2026-06-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05256",
-      "date": "2026-06-06"
-    },
-    {
       "url": "https://www.qbitai.com/2026/06/431487.html",
       "date": "2026-06-07"
     },
@@ -735,6 +635,10 @@
     {
       "url": "https://www.qbitai.com/2026/06/435483.html",
       "date": "2026-06-13"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "date": "2026-06-14"
     }
   ]
 }
