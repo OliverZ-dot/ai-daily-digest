@@ -1,82 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/06/432055.html",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07000",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.02748",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06526",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06869",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.04234",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06972",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07299",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06525",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06646",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07054",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/432425.html",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/432587.html",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/432489.html",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/432581.html",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-      "date": "2026-06-08"
-    },
-    {
       "url": "https://www.qbitai.com/2026/06/432735.html",
       "date": "2026-06-09"
     },
@@ -679,6 +603,66 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
       "date": "2026-06-15"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/435873.html",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/435861.html",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/435859.html",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/435853.html",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.00887",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.00887",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.01613",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.15862",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.15078",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.15441",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.14935",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.15107",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.15231",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.15367",
+      "date": "2026-06-16"
     }
   ]
 }
