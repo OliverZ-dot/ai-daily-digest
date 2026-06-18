@@ -1,146 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://openai.com/index/nextdoor",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/433590.html",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10833",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11070",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.04514",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.14828",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10742",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10532",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10616",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10747",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.09916",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10296",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/433731.html",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/433682.html",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/433516.html",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/433832.html",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/433798.html",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10254",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10479",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.09907",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.09937",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10620",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10475",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10662",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10684",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11119",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.24197",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "date": "2026-06-10"
-    },
-    {
       "url": "https://www.qbitai.com/2026/06/434317.html",
       "date": "2026-06-11"
     },
@@ -663,6 +523,58 @@
     {
       "url": "https://www.qbitai.com/2026/06/436456.html",
       "date": "2026-06-17"
+    },
+    {
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/436468.html",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.19259",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.18950",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.18733",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.09046",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.28076",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.18947",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.18950",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.18831",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.00026",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.18967",
+      "date": "2026-06-18"
     }
   ]
 }
