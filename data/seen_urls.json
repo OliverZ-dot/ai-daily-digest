@@ -1,106 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/06/434317.html",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/434326.html",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/434316.html",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/434298.html",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/434267.html",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11998",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11770",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.12018",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.12207",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.19502",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11349",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11537",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11634",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11637",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11724",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/434571.html",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/434558.html",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-      "date": "2026-06-11"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
       "date": "2026-06-12"
     },
@@ -663,6 +563,74 @@
     {
       "url": "https://www.qbitai.com/2026/06/436802.html",
       "date": "2026-06-18"
+    },
+    {
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/436842.html",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/436813.html",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.20280",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.16682",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.20523",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.20227",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.20245",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.19494",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.20142",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.20560",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.27568",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.10616",
+      "date": "2026-06-19"
     }
   ]
 }
