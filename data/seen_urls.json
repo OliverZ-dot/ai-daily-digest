@@ -1,134 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/434733.html",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13192",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13020",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.12830",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13572",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.06652",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.12852",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13148",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13197",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13262",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13392",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/434774.html",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435196.html",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435192.html",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/433717.html",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435105.html",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.12809",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.12871",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13608",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.12824",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.12886",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13673",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.21563",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11521",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11893",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.12334",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "date": "2026-06-12"
-    },
-    {
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "date": "2026-06-13"
     },
@@ -635,6 +507,46 @@
     {
       "url": "https://www.qbitai.com/2026/06/436864.html",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.19636",
+      "date": "2026-06-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.19965",
+      "date": "2026-06-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.20164",
+      "date": "2026-06-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.07593",
+      "date": "2026-06-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.21978",
+      "date": "2026-06-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.11537",
+      "date": "2026-06-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.11556",
+      "date": "2026-06-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.19464",
+      "date": "2026-06-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.19469",
+      "date": "2026-06-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.19501",
+      "date": "2026-06-20"
     }
   ]
 }
