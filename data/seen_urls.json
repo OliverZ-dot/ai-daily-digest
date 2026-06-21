@@ -1,26 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435339.html",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435455.html",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435483.html",
-      "date": "2026-06-13"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
       "date": "2026-06-14"
     },
@@ -603,6 +583,14 @@
     {
       "url": "https://www.qbitai.com/2026/06/437023.html",
       "date": "2026-06-20"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/437141.html",
+      "date": "2026-06-21"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/436996.html",
+      "date": "2026-06-21"
     }
   ]
 }
