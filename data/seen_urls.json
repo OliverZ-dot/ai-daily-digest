@@ -1,74 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/06/435531.html",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435520.html",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.14697",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.05407",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.22671",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.05167",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.22671",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.14470",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.14219",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.14594",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.00845",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.05407",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435848.html",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435841.html",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "date": "2026-06-15"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
       "date": "2026-06-16"
     },
@@ -611,6 +543,22 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
       "date": "2026-06-22"
+    },
+    {
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-23"
+    },
+    {
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "date": "2026-06-23"
+    },
+    {
+      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "date": "2026-06-23"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/437330.html",
+      "date": "2026-06-23"
     }
   ]
 }
