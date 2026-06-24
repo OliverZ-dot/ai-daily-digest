@@ -1,94 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435873.html",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435861.html",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435859.html",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435853.html",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.00887",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.00887",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.01613",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.15862",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.15078",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.15441",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.14935",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.15107",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.15231",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.15367",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436073.html",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435953.html",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435950.html",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/435931.html",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-      "date": "2026-06-16"
-    },
-    {
-      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-      "date": "2026-06-16"
-    },
-    {
       "url": "https://www.qbitai.com/2026/06/436130.html",
       "date": "2026-06-17"
     },
@@ -595,6 +507,58 @@
     {
       "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
       "date": "2026-06-23"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/437698.html",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/432494.html",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.23032",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24124",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24020",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24391",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24437",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24026",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24235",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24437",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24601",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.11637",
+      "date": "2026-06-24"
     }
   ]
 }
