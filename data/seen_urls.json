@@ -615,6 +615,22 @@
     {
       "url": "https://arxiv.org/abs/2606.24010",
       "date": "2026-06-24"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "date": "2026-06-24"
     }
   ]
 }
