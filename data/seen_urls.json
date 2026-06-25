@@ -655,6 +655,14 @@
     {
       "url": "https://arxiv.org/abs/2606.24453",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "date": "2026-06-25"
     }
   ]
 }
