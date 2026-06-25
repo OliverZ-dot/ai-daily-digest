@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/06/436130.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436110.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436085.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436082.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436077.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.19099",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.17846",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.17642",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.17888",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.17389",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.17220",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.17642",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18068",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18147",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.17389",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436171.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436435.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436223.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436224.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436213.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436211.html",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436456.html",
-      "date": "2026-06-17"
-    },
-    {
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
       "date": "2026-06-18"
     },
@@ -631,6 +515,78 @@
     {
       "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
       "date": "2026-06-24"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438351.html",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438336.html",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438297.html",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438204.html",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438179.html",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.25128",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.25013",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24950",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24965",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.25984",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26057",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24014",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24064",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24112",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24129",
+      "date": "2026-06-25"
     }
   ]
 }
