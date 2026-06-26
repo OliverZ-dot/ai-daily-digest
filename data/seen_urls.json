@@ -1,146 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436468.html",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19259",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18950",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18733",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2506.09046",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.28076",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18947",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18950",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18831",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.00026",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18967",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436751.html",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436740.html",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436674.html",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436698.html",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436518.html",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436517.html",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16385",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18287",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19120",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.22363",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18847",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18413",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18543",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18746",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18786",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.18803",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436758.html",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436802.html",
-      "date": "2026-06-18"
-    },
-    {
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "date": "2026-06-19"
     },
@@ -663,6 +523,74 @@
     {
       "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438741.html",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438701.html",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438703.html",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438698.html",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438690.html",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.01195",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26458",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.27161",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26294",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26794",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26669",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26671",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26935",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.27154",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26575",
+      "date": "2026-06-26"
     }
   ]
 }
