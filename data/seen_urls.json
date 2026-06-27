@@ -1,78 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436842.html",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436813.html",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20280",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.16682",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20523",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20227",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20245",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19494",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20142",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20560",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.27568",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10616",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436864.html",
-      "date": "2026-06-19"
-    },
-    {
       "url": "https://arxiv.org/abs/2606.19636",
       "date": "2026-06-20"
     },
@@ -643,6 +571,62 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/438895.html",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.07295",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.22437",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.15877",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26346",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26366",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26203",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26205",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26298",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26300",
+      "date": "2026-06-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26346",
+      "date": "2026-06-27"
     }
   ]
 }
