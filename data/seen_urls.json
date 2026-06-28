@@ -1,102 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2606.19636",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19965",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20164",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.07593",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.21978",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11537",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.11556",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19464",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19469",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19501",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436980.html",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/436966.html",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10873",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19704",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20258",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20376",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20408",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19527",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19559",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19588",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19602",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19683",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437041.html",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437023.html",
-      "date": "2026-06-20"
-    },
-    {
       "url": "https://www.qbitai.com/2026/06/437141.html",
       "date": "2026-06-21"
     },
@@ -683,6 +587,10 @@
     {
       "url": "https://www.qbitai.com/2026/06/439236.html",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "date": "2026-06-28"
     }
   ]
 }
