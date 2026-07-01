@@ -1,58 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/patch-the-planet",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437330.html",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437425.html",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437672.html",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437503.html",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437694.html",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-      "date": "2026-06-23"
-    },
-    {
       "url": "https://openai.com/index/gpt-5-immunology-mystery",
       "date": "2026-06-24"
     },
@@ -791,6 +739,74 @@
     {
       "url": "https://www.theverge.com/column/959433/libby-ai-filter",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/440985.html",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/441124.html",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/441001.html",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31392",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31048",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31048",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31179",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31154",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31085",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31134",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31179",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31648",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.30658",
+      "date": "2026-07-01"
     }
   ]
 }
