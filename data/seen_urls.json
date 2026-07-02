@@ -1,130 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437698.html",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/432494.html",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23032",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24124",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24020",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24391",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24437",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24026",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24235",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24437",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24601",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11637",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437834.html",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437734.html",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438166.html",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438157.html",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23716",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23238",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2501.11790",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.12824",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.20189",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.18747",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23927",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23938",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23991",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24010",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-      "date": "2026-06-24"
-    },
-    {
       "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
       "date": "2026-06-25"
     },
@@ -883,6 +759,46 @@
     {
       "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "date": "2026-07-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.01084",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.00627",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.00049",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.00272",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.00862",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.00457",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.00972",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.12056",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.13148",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.00001",
+      "date": "2026-07-02"
     }
   ]
 }
