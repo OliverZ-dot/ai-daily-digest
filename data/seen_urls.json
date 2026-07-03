@@ -1,154 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438351.html",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438336.html",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438297.html",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438204.html",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438179.html",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.25128",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.25013",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24950",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24965",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.25984",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.26057",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24014",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24064",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24112",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24129",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438365.html",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438364.html",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438658.html",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438638.html",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/438468.html",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.26079",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.16518",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23740",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23741",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23885",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24279",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24311",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24392",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24416",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24453",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-      "date": "2026-06-25"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
       "date": "2026-06-26"
     },
@@ -875,6 +727,54 @@
     {
       "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/442167.html",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/442138.html",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.02175",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.01431",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.01813",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.01927",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.02089",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.01661",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.01236",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.02436",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.22897",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.19775",
+      "date": "2026-07-03"
     }
   ]
 }
