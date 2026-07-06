@@ -1,26 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "date": "2026-06-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/439464.html",
-      "date": "2026-06-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/439548.html",
-      "date": "2026-06-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/439515.html",
-      "date": "2026-06-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "date": "2026-06-28"
-    },
-    {
       "url": "https://www.qbitai.com/2026/06/439750.html",
       "date": "2026-06-29"
     },
@@ -655,6 +635,22 @@
     {
       "url": "https://www.qbitai.com/2026/07/443186.html",
       "date": "2026-07-05"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/443559.html",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/443522.html",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/443399.html",
+      "date": "2026-07-06"
     }
   ]
 }
