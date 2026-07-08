@@ -1,142 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/06/440162.html",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/440024.html",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28514",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28556",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29193",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28357",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28397",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28692",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28710",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28739",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29026",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29194",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/440949.html",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/440599.html",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/440818.html",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/440630.html",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/440199.html",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/440478.html",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/440454.html",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/440332.html",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29648",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29808",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.07445",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.05257",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.05852",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29354",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29425",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29654",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29932",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.30185",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "date": "2026-06-30"
-    },
-    {
       "url": "https://huggingface.co/blog/ibm-research/scarfbench",
       "date": "2026-07-01"
     },
@@ -727,6 +591,62 @@
     {
       "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
       "date": "2026-07-07"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/445678.html",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/445668.html",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/445531.html",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05943",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.15631",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.15631",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05428",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05614",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05775",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05943",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06447",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06522",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05428",
+      "date": "2026-07-08"
     }
   ]
 }
