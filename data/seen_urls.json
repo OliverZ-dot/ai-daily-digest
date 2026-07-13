@@ -735,6 +735,14 @@
     {
       "url": "https://arxiv.org/abs/2607.09175",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/449327.html",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+      "date": "2026-07-13"
     }
   ]
 }
