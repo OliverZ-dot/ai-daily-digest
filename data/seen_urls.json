@@ -1,62 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/07/443559.html",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/443522.html",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/443399.html",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/443867.html",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/444733.html",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/444721.html",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/444049.html",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/444043.html",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/443868.html",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-      "date": "2026-07-06"
-    },
-    {
       "url": "https://www.qbitai.com/2026/07/444741.html",
       "date": "2026-07-07"
     },
@@ -743,6 +687,54 @@
     {
       "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/449474.html",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/449407.html",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09322",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09102",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.00726",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2508.14817",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08681",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09195",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09217",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09322",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09330",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09403",
+      "date": "2026-07-14"
     }
   ]
 }
