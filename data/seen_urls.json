@@ -1,142 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/445678.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/445668.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/445531.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05943",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2502.15631",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2502.15631",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05428",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05614",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05775",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05943",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06447",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06522",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05428",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446076.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/445883.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446069.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446356.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446226.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446075.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/445946.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/445904.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05798",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05992",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23916",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19723",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.30794",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.00476",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.14948",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05456",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05682",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05690",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446411.html",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446363.html",
-      "date": "2026-07-08"
-    },
-    {
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "date": "2026-07-09"
     },
@@ -819,6 +683,62 @@
     {
       "url": "https://arxiv.org/abs/2607.12650",
       "date": "2026-07-15"
+    },
+    {
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/450896.html",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.13080",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.13073",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.13220",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.13548",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.13454",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.13220",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.13558",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.13080",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.13081",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.06223",
+      "date": "2026-07-16"
     }
   ]
 }
