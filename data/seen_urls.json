@@ -1,146 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446425.html",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446562.html",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446548.html",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446458.html",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446435.html",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06963",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06764",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07189",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07391",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06620",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06757",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06764",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06906",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07316",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15207",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446658.html",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446843.html",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/446778.html",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07027",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07091",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07401",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.23802",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2508.17298",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06624",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06720",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06820",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07097",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07229",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-      "date": "2026-07-09"
-    },
-    {
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "date": "2026-07-10"
     },
@@ -823,6 +683,74 @@
     {
       "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
       "date": "2026-07-16"
+    },
+    {
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/451691.html",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14682",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14682",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14543",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14187",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14557",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14178",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14187",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14658",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14682",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14117",
+      "date": "2026-07-17"
     }
   ]
 }
