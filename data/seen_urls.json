@@ -1,154 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://openai.com/index/gpt-5-6",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/447597.html",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08093",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08093",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08317",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08602",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08745",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07858",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07859",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08066",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08093",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08173",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/447691.html",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/447681.html",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/447796.html",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/447682.html",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://openai.com/index/deutsche-telekom",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/447627.html",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08758",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07907",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2412.07259",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.25984",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.21917",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.07989",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08043",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08180",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.16149",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.21917",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/447832.html",
-      "date": "2026-07-10"
-    },
-    {
       "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
       "date": "2026-07-11"
     },
@@ -819,6 +671,54 @@
     {
       "url": "https://www.qbitai.com/2026/07/453237.html",
       "date": "2026-07-17"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/453467.html",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/453506.html",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14642",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.15176",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14905",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.15205",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.14332",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14145",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14158",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14159",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14240",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14256",
+      "date": "2026-07-18"
     }
   ]
 }
