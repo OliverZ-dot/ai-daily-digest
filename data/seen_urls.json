@@ -1,126 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/07/448239.html",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09059",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09114",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09623",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.00651",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08883",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09059",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09099",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09600",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08960",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09623",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/448925.html",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/448825.html",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/449156.html",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/449150.html",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/449005.html",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/448923.html",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09142",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09521",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09068",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09328",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08964",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08894",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08964",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09076",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09153",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09175",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/449327.html",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
-      "date": "2026-07-13"
-    },
-    {
       "url": "https://www.qbitai.com/2026/07/449474.html",
       "date": "2026-07-14"
     },
@@ -967,6 +847,54 @@
     {
       "url": "https://arxiv.org/abs/2607.15550",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.10922",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.27958",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.16716",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.16727",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.17269",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.16716",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.17188",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.17352",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.17641",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.17657",
+      "date": "2026-07-21"
     }
   ]
 }
