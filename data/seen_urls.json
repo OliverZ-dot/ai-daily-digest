@@ -1,146 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/450896.html",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13080",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13073",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13220",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13548",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13454",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13220",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13558",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13080",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13081",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06223",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/451371.html",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/451379.html",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/451327.html",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/451084.html",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/451049.html",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.00546",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2508.12466",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.24902",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2508.12466",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.24902",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.13903",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.13903",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13049",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13069",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13104",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "date": "2026-07-16"
-    },
-    {
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
       "date": "2026-07-17"
     },
@@ -999,6 +859,58 @@
     {
       "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/07/457792.html",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.21557",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.21433",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.21433",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.20926",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.21155",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.20507",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.20515",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.20926",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.21503",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.21557",
+      "date": "2026-07-24"
     }
   ]
 }
