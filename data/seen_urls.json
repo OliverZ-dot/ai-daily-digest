@@ -1,142 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/451691.html",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14682",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14682",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14543",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14187",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14557",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14178",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14187",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14658",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14682",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14117",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/452611.html",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/452961.html",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/452956.html",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/452942.html",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/452914.html",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.11149",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13572",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14895",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14721",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14149",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14390",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.21324",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13572",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.05000",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14097",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/453217.html",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/453237.html",
-      "date": "2026-07-17"
-    },
-    {
       "url": "https://www.qbitai.com/2026/07/453467.html",
       "date": "2026-07-18"
     },
@@ -983,6 +847,10 @@
     {
       "url": "https://www.qbitai.com/2026/07/460041.html",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "date": "2026-07-25"
     }
   ]
 }
