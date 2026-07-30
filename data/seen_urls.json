@@ -779,6 +779,14 @@
     {
       "url": "https://arxiv.org/abs/2607.24833",
       "date": "2026-07-30"
+    },
+    {
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "date": "2026-07-30"
     }
   ]
 }
