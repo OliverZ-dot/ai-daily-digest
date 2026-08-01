@@ -1,130 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/457792.html",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21557",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21433",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21433",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20926",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21155",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20507",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20515",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20926",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21503",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21557",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/458687.html",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/459432.html",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/459402.html",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/458438.html",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/459262.html",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/458617.html",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/458864.html",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21300",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20468",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20638",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20557",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21130",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.14257",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.05704",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21550",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20452",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20468",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/460041.html",
-      "date": "2026-07-24"
-    },
-    {
       "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
       "date": "2026-07-25"
     },
@@ -799,6 +675,10 @@
     {
       "url": "https://openai.com/index/building-abundant-intelligence",
       "date": "2026-07-31"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/464364.html",
+      "date": "2026-08-01"
     }
   ]
 }
