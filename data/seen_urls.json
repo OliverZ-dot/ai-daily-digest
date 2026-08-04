@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/07/461153.html",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461149.html",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.17483",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21635",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22314",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21624",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22165",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22314",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22385",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21635",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21653",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21680",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461220.html",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461444.html",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461398.html",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461392.html",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461341.html",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.21770",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21453",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.19618",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.10023",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20491",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21856",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21876",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21946",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21949",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21804",
-      "date": "2026-07-27"
-    },
-    {
       "url": "https://www.qbitai.com/2026/07/461565.html",
       "date": "2026-07-28"
     },
@@ -775,6 +659,54 @@
     {
       "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
       "date": "2026-08-03"
+    },
+    {
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/465732.html",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00106",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01585",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.29468",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.28645",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.28858",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00106",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00175",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00542",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01585",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.08876",
+      "date": "2026-08-04"
     }
   ]
 }
