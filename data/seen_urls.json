@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/07/461565.html",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461517.html",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23514",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2508.16170",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19259",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22562",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22689",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22555",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22562",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22571",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22713",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22732",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461961.html",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461650.html",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461949.html",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/461939.html",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23123",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23944",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23870",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2501.19060",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22566",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22962",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23045",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23123",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23605",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23678",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "date": "2026-07-28"
-    },
-    {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
       "date": "2026-07-29"
     },
@@ -787,6 +671,50 @@
     {
       "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/466386.html",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03327",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03450",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.02877",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.21214",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.20028",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.02993",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03031",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03420",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03502",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03699",
+      "date": "2026-08-05"
     }
   ]
 }
