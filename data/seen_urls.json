@@ -1,134 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/462062.html",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/462058.html",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24794",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25554",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25369",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25066",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25891",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24759",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25066",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25091",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25369",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25554",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/462447.html",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/462384.html",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/462380.html",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/07/462301.html",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25947",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25933",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25961",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.06276",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13454",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25145",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25992",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22711",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.01348",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24758",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "date": "2026-07-29"
-    },
-    {
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "date": "2026-07-30"
     },
@@ -795,6 +667,50 @@
     {
       "url": "https://www.qbitai.com/2026/08/467001.html",
       "date": "2026-08-05"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/467196.html",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.04726",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.04714",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05131",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.04714",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05139",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.04719",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05095",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05144",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.28545",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.04066",
+      "date": "2026-08-06"
     }
   ]
 }
