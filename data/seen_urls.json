@@ -1,126 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/08/464835.html",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.29002",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.29577",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28699",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.29602",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.03438",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28986",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.03438",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.02854",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05976",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.07699",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/465226.html",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/465215.html",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/465211.html",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/465176.html",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/465673.html",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/465223.html",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/465662.html",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.22580",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16301",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16301",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16057",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28881",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28629",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28642",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28674",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28677",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28678",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
-      "date": "2026-08-03"
-    },
-    {
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "date": "2026-08-04"
     },
@@ -775,6 +655,58 @@
     {
       "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/469860.html",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.03238",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.15506",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29738",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.07183",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06557",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06865",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.19035",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06557",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06410",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06530",
+      "date": "2026-08-11"
     }
   ]
 }
