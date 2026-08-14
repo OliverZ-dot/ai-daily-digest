@@ -1,94 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/08/467196.html",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04726",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04714",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05131",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04714",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05139",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04719",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05095",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05144",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28545",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04066",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00513",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00513",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04232",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04519",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04452",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04077",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04095",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04205",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04232",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04285",
-      "date": "2026-08-06"
-    },
-    {
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
       "date": "2026-08-07"
     },
@@ -803,6 +715,74 @@
     {
       "url": "https://www.qbitai.com/2026/08/472060.html",
       "date": "2026-08-13"
+    },
+    {
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/472208.html",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.16409",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11655",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12262",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.17332",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.01138",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11967",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.07339",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.16149",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11967",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11207",
+      "date": "2026-08-14"
     }
   ]
 }
