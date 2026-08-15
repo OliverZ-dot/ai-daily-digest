@@ -1,142 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/467487.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/467444.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/467834.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/467730.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/467663.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/467486.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04589",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.02027",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.03321",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04305",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.03321",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04289",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04458",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04562",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04625",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04663",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://openai.com/index/hsp-gruppe",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/467879.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/468324.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/466738.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/468305.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/467878.html",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05212",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.06420",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05668",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05864",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06135",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05212",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05628",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24235",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.31134",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28609",
-      "date": "2026-08-07"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.05381",
       "date": "2026-08-08"
     },
@@ -843,6 +707,54 @@
     {
       "url": "https://arxiv.org/abs/2608.13476",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/473379.html",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12391",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13113",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13267",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03025",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.09700",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12751",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13031",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.19799",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.08322",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.10560",
+      "date": "2026-08-15"
     }
   ]
 }
