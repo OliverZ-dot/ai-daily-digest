@@ -1,62 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.05381",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05833",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05196",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05238",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05724",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.17658",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.17658",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05159",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05168",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05204",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/468631.html",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/468555.html",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/468498.html",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/468462.html",
-      "date": "2026-08-08"
-    },
-    {
       "url": "https://www.qbitai.com/2026/08/469010.html",
       "date": "2026-08-09"
     },
@@ -815,6 +759,50 @@
     {
       "url": "https://arxiv.org/abs/2608.12373",
       "date": "2026-08-15"
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "date": "2026-08-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12935",
+      "date": "2026-08-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12321",
+      "date": "2026-08-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12327",
+      "date": "2026-08-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12333",
+      "date": "2026-08-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13226",
+      "date": "2026-08-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12395",
+      "date": "2026-08-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12426",
+      "date": "2026-08-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12428",
+      "date": "2026-08-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12476",
+      "date": "2026-08-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12590",
+      "date": "2026-08-16"
     }
   ]
 }
