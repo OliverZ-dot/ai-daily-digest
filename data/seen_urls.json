@@ -1,114 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/08/469475.html",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/469454.html",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/469213.html",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/469076.html",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/469520.html",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/469500.html",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/469493.html",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/469544.html",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21557",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06699",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06922",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06938",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07417",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06699",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06714",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06756",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06922",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07068",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://openai.com/index/model-ml",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/469721.html",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/469795.html",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-      "date": "2026-08-10"
-    },
-    {
       "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
       "date": "2026-08-11"
     },
@@ -879,6 +771,46 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
       "date": "2026-08-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.14179",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13708",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.14138",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.14211",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09508",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.09508",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13564",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13567",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13574",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13598",
+      "date": "2026-08-18"
     }
   ]
 }
