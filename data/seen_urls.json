@@ -1,142 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/469860.html",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.03238",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.15506",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29738",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07183",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06557",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06865",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19035",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06557",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06410",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06530",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/470485.html",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/470228.html",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/470307.html",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.09230",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.09281",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07593",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.08224",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07796",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12991",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12991",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07621",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07743",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07796",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/470674.html",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/470621.html",
-      "date": "2026-08-11"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
       "date": "2026-08-12"
     },
@@ -907,6 +771,58 @@
     {
       "url": "https://www.qbitai.com/2026/08/474868.html",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.03988",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.22067",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.14720",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.16316",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.21219",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.14720",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.16316",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.16742",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.16806",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.17006",
+      "date": "2026-08-19"
     }
   ]
 }
