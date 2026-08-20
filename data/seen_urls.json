@@ -1,142 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/470576.html",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07838",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.08736",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.08852",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.08935",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.09128",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07885",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07931",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07959",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.08146",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.08220",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/470901.html",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10954",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10665",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10964",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16057",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25589",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10108",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10494",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10669",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2505.23399",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.06772",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/471254.html",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/471162.html",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/471049.html",
-      "date": "2026-08-12"
-    },
-    {
       "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
       "date": "2026-08-13"
     },
@@ -907,6 +771,66 @@
     {
       "url": "https://www.qbitai.com/2026/08/475931.html",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://openai.com/index/replit",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/476070.html",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/476075.html",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17659",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17301",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18066",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17310",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18066",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.20560",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17310",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.20560",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.16890",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.16891",
+      "date": "2026-08-20"
     }
   ]
 }
