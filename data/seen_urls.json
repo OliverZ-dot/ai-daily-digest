@@ -1,134 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11047",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10126",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10679",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10916",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.17188",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.17188",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10333",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10441",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10628",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.09967",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/471642.html",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/471701.html",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/471697.html",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/471668.html",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11738",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12282",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11415",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11616",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11691",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11252",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11260",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11420",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12282",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11274",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/472016.html",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/472059.html",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/472067.html",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/472060.html",
-      "date": "2026-08-13"
-    },
-    {
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "date": "2026-08-14"
     },
@@ -887,6 +759,54 @@
     {
       "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
       "date": "2026-08-20"
+    },
+    {
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18919",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18504",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18534",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18884",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18938",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18419",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14178",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03502",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18419",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03502",
+      "date": "2026-08-21"
     }
   ]
 }
