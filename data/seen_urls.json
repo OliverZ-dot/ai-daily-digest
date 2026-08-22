@@ -1,134 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/472208.html",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16409",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11655",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12262",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2506.17332",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.01138",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11967",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.07339",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.16149",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11967",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.11207",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/473038.html",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/473144.html",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/472722.html",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/472718.html",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12743",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.10840",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.21628",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13129",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13344",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12372",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12743",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12877",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13317",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13476",
-      "date": "2026-08-14"
-    },
-    {
       "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
       "date": "2026-08-15"
     },
@@ -879,6 +751,50 @@
     {
       "url": "https://www.qbitai.com/2026/08/476778.html",
       "date": "2026-08-21"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.08022",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19202",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19408",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19902",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20318",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20099",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19202",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19303",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19408",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19511",
+      "date": "2026-08-22"
     }
   ]
 }
