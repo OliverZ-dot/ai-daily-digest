@@ -1,74 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/474518.html",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/474381.html",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/474361.html",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/474334.html",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14132",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14389",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.14704",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13681",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13591",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13667",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13787",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14375",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14452",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14015",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "date": "2026-08-17"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.14179",
       "date": "2026-08-18"
     },
@@ -727,6 +659,54 @@
     {
       "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
       "date": "2026-08-24"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/478675.html",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20627",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.28881",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.16633",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.28645",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.21100",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20627",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.21055",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.09772",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.21057",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.11821",
+      "date": "2026-08-25"
     }
   ]
 }
