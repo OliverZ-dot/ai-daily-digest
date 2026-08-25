@@ -775,6 +775,14 @@
     {
       "url": "https://arxiv.org/abs/2608.23497",
       "date": "2026-08-25"
+    },
+    {
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "date": "2026-08-25"
     }
   ]
 }
