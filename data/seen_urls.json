@@ -1,142 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03988",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22067",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14720",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.16316",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.21219",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14720",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.16316",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.16742",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.16806",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.17006",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/475764.html",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/475901.html",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/475869.html",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/475477.html",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/475476.html",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/475460.html",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/475332.html",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.17895",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.17443",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08093",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.00547",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.12982",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.17282",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.17253",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08093",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.18747",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.07725",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-      "date": "2026-08-19"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/475931.html",
-      "date": "2026-08-19"
-    },
-    {
       "url": "https://openai.com/index/replit",
       "date": "2026-08-20"
     },
@@ -755,6 +619,66 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
       "date": "2026-08-26"
+    },
+    {
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/480001.html",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/480005.html",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/480079.html",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.25756",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.25973",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26000",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24232",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.23898",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24252",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24087",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08960",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.25756",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.19380",
+      "date": "2026-08-27"
     }
   ]
 }
