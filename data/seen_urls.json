@@ -1,126 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.18919",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.18504",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.18534",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.18884",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.18938",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.18419",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14178",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03502",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.18419",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03502",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/476596.html",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/476628.html",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/476591.html",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/476532.html",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/476525.html",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19669",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.20237",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.22547",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19297",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.02022",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19701",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19729",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19794",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10828",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19964",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/476778.html",
-      "date": "2026-08-21"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "date": "2026-08-22"
     },
@@ -647,6 +527,46 @@
     {
       "url": "https://www.qbitai.com/2026/08/480700.html",
       "date": "2026-08-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26235",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26193",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26317",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26713",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26856",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.08586",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.11637",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26107",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26109",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26164",
+      "date": "2026-08-29"
     }
   ]
 }
