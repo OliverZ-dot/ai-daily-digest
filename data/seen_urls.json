@@ -1,130 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/478675.html",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.20627",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28881",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2506.16633",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28645",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21100",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.20627",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21055",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2504.09772",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21057",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2505.11821",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/478791.html",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/478996.html",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/479192.html",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/479132.html",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/479096.html",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/478912.html",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.08884",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.23256",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21382",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22963",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21440",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22472",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22963",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.23058",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.23078",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.23497",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "date": "2026-08-25"
-    },
-    {
       "url": "https://openai.com/index/jalapeno-first-results",
       "date": "2026-08-26"
     },
@@ -615,6 +491,78 @@
     {
       "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/482652.html",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/482967.html",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/482855.html",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/482699.html",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/482586.html",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00865",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.21969",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01455",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00028",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00365",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00237",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00455",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00570",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01045",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00014",
+      "date": "2026-09-02"
     }
   ]
 }
