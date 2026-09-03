@@ -1,114 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/479320.html",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.01063",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.17642",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2506.18919",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.01575",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21811",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21863",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22132",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.23329",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.01063",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.17642",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/479808.html",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/479348.html",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/479670.html",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/479634.html",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.15994",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.17027",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.24086",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.24063",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.19261",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.23622",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.23956",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.24015",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.24086",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.24237",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-      "date": "2026-08-26"
-    },
-    {
       "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
       "date": "2026-08-27"
     },
@@ -603,6 +495,70 @@
     {
       "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
       "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/483565.html",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/483462.html",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/483351.html",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02059",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02339",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02339",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02059",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01962",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02191",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02253",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02336",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02786",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01867",
+      "date": "2026-09-03"
     }
   ]
 }
