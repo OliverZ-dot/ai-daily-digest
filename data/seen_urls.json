@@ -1,82 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/480001.html",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/480005.html",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/480079.html",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.25756",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.25973",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.26000",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.24232",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.23898",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.24252",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.24087",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08960",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.25756",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.19380",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/480092.html",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "date": "2026-08-27"
-    },
-    {
       "url": "https://www.qbitai.com/2026/08/480600.html",
       "date": "2026-08-28"
     },
@@ -607,6 +531,78 @@
     {
       "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/483898.html",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/483948.html",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/483984.html",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/483598.html",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.03526",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.03241",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.03892",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.03241",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.25348",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.03619",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.03941",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.04159",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.01207",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.09341",
+      "date": "2026-09-04"
     }
   ]
 }
