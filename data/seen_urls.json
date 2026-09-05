@@ -1,74 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/08/480600.html",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/480487.html",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/480666.html",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/480591.html",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.12979",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.10954",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.02357",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24020",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.26535",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.26114",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.26442",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.26747",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.26950",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.27142",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/08/480700.html",
-      "date": "2026-08-28"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.26235",
       "date": "2026-08-29"
     },
@@ -639,6 +571,22 @@
     {
       "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
       "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/484649.html",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/484551.html",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/484611.html",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "date": "2026-09-05"
     }
   ]
 }
