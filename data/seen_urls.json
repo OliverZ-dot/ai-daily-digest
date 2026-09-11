@@ -1,118 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483565.html",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483552.html",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483462.html",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483351.html",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.02059",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.02339",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.02339",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.02059",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.01962",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.02191",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.02253",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.02336",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.02786",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.01867",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483600.html",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483839.html",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483786.html",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483189.html",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-      "date": "2026-09-03"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
       "date": "2026-09-04"
     },
@@ -531,6 +419,66 @@
     {
       "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
       "date": "2026-09-10"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/487092.html",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/487176.html",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/487163.html",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/487055.html",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.09754",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10177",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10142",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.30002",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11058",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.09565",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.09754",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10177",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10315",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.30002",
+      "date": "2026-09-11"
     }
   ]
 }
