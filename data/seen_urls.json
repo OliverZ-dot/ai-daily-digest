@@ -1,114 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483898.html",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483948.html",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483984.html",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/483598.html",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.03526",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.03241",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.03892",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.03241",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.25348",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.03619",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.03941",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04159",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.01207",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.09341",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/484547.html",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/484437.html",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "date": "2026-09-04"
-    },
-    {
       "url": "https://www.qbitai.com/2026/09/484649.html",
       "date": "2026-09-05"
     },
@@ -499,6 +391,62 @@
     {
       "url": "https://www.qbitai.com/2026/09/487415.html",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/487631.html",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11243",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11318",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10654",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11282",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10895",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11147",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11243",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11319",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11660",
+      "date": "2026-09-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11709",
+      "date": "2026-09-12"
     }
   ]
 }
