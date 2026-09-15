@@ -1,78 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/485039.html",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28514",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04749",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04842",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18892",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04859",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04749",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04865",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05036",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05090",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18718",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/485108.html",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/485431.html",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/485064.html",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/485525.html",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "date": "2026-09-07"
-    },
-    {
       "url": "https://www.qbitai.com/2026/09/485784.html",
       "date": "2026-09-08"
     },
@@ -515,6 +443,54 @@
     {
       "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
       "date": "2026-09-14"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/489227.html",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://openai.com/index/fyxer",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13457",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.14066",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15606",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.17642",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.13725",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.14412",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15517",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13335",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.14066",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15161",
+      "date": "2026-09-15"
     }
   ]
 }
