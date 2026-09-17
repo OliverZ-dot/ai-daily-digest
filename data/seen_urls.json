@@ -1,66 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/486052.html",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/486038.html",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/486374.html",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/486370.html",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-      "date": "2026-09-09"
-    },
-    {
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "date": "2026-09-10"
     },
@@ -575,6 +515,74 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/490974.html",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/491147.html",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/491091.html",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/491062.html",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/490950.html",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18991",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17804",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17804",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18057",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18688",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17921",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18126",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18182",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18249",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18461",
+      "date": "2026-09-17"
     }
   ]
 }
