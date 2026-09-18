@@ -1,102 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/486350.html",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/486436.html",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.06934",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.06934",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.06831",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.00288",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.08040",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05437",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05708",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.07255",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.07627",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.08025",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/486684.html",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/486934.html",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/486900.html",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/486747.html",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://openai.com/index/put-data-to-work",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-      "date": "2026-09-10"
-    },
-    {
       "url": "https://openai.com/index/introducing-chatgpt-financial-services",
       "date": "2026-09-11"
     },
@@ -615,6 +519,66 @@
     {
       "url": "https://www.qbitai.com/2026/09/491522.html",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/491711.html",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://openai.com/index/cooley-gopublic",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/491764.html",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.19524",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.08736",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.07315",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.19180",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20089",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.19947",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20089",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.19491",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.19527",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.08082",
+      "date": "2026-09-18"
     }
   ]
 }
