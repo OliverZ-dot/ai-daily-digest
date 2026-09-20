@@ -1,90 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/487631.html",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11243",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11318",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.10654",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11282",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.10895",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11147",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11243",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11319",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11660",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11709",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/487796.html",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/487701.html",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/487860.html",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/487752.html",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "date": "2026-09-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "date": "2026-09-12"
-    },
-    {
       "url": "https://www.qbitai.com/2026/09/488380.html",
       "date": "2026-09-13"
     },
@@ -567,6 +483,10 @@
     {
       "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
       "date": "2026-09-19"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/492849.html",
+      "date": "2026-09-20"
     }
   ]
 }
