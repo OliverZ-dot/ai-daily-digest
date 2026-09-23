@@ -1,90 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/09/489227.html",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://openai.com/index/fyxer",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.13457",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.14066",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.15606",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.17642",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.13725",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.14412",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.15517",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.13335",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.14066",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.15161",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/489460.html",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/489698.html",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/489466.html",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/489389.html",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/489381.html",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "date": "2026-09-15"
-    },
-    {
       "url": "https://www.qbitai.com/2026/09/490098.html",
       "date": "2026-09-16"
     },
@@ -651,6 +567,78 @@
     {
       "url": "https://www.qbitai.com/2026/09/494263.html",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/496221.html",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/496170.html",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/496129.html",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/496124.html",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.17909",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.24346",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.20757",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22878",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22271",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.24362",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.24831",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.24838",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.24927",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.23407",
+      "date": "2026-09-23"
     }
   ]
 }
