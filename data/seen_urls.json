@@ -1,102 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/09/490098.html",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/490329.html",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/490185.html",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/489724.html",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/490109.html",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.16459",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.16091",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.16459",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.08861",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.16251",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.17306",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.12626",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.16091",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.16215",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.16245",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/490396.html",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/490686.html",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/490760.html",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "date": "2026-09-16"
-    },
-    {
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "date": "2026-09-17"
     },
@@ -703,6 +607,78 @@
     {
       "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
       "date": "2026-09-23"
+    },
+    {
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/496647.html",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/496740.html",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11243",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2508.13680",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27288",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27869",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28064",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27150",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27276",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27763",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27869",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27572",
+      "date": "2026-09-24"
     }
   ]
 }
