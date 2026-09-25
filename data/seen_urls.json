@@ -1,106 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/490974.html",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/491147.html",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/491091.html",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/491062.html",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/490950.html",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.18991",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.17804",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.17804",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.18057",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.18688",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.17921",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.18126",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.18182",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.18249",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.18461",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/491596.html",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/491391.html",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/491454.html",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/491649.html",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/491522.html",
-      "date": "2026-09-17"
-    },
-    {
       "url": "https://www.qbitai.com/2026/09/491711.html",
       "date": "2026-09-18"
     },
@@ -731,6 +631,54 @@
     {
       "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/496816.html",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28524",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28836",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2507.00938",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.06676",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31825",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28475",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28557",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28771",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28963",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.29251",
+      "date": "2026-09-25"
     }
   ]
 }
