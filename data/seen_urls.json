@@ -1,98 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/499098.html",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.13020",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30940",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.31619",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30783",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30952",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30325",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30328",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30341",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30383",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30456",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/499140.html",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "date": "2026-09-29"
-    },
-    {
       "url": "https://www.qbitai.com/2026/09/499308.html",
       "date": "2026-09-30"
     },
@@ -583,6 +491,62 @@
     {
       "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
       "date": "2026-10-06"
+    },
+    {
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://openai.com/index/jump-trading",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.34457",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07127",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.08106",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07751",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.03387",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07473",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07751",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07787",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07835",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07851",
+      "date": "2026-10-07"
     }
   ]
 }
