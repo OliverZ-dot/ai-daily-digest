@@ -1,106 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/09/499308.html",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://openai.com/index/devday-2026-recap",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/499263.html",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/499246.html",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/499280.html",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.37773",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.37053",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.37658",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12743",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19669",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.35799",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.35875",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.36254",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.36406",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.37012",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/499654.html",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/499493.html",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "date": "2026-09-30"
-    },
-    {
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "date": "2026-10-01"
     },
@@ -599,6 +499,58 @@
     {
       "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
       "date": "2026-10-07"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/501832.html",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/501834.html",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/501915.html",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.10409",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.06971",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2508.16821",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.04364",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.09000",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07935",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07948",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.08138",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.08250",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.08327",
+      "date": "2026-10-08"
     }
   ]
 }
