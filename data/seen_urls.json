@@ -1,94 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.22676",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01569",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01847",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01892",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12102",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.00437",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.00872",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01249",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01451",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.02038",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/499991.html",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/500098.html",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "date": "2026-10-02"
-    },
-    {
       "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "date": "2026-10-03"
     },
@@ -607,6 +519,14 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
       "date": "2026-10-09"
+    },
+    {
+      "url": "https://openai.com/index/asana-browser-agent",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/502364.html",
+      "date": "2026-10-10"
     }
   ]
 }
