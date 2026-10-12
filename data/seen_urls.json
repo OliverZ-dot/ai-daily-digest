@@ -1,26 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/10/501451.html",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/501506.html",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "date": "2026-10-04"
-    },
-    {
       "url": "https://www.qbitai.com/2026/10/501705.html",
       "date": "2026-10-05"
     },
@@ -479,6 +459,46 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
       "date": "2026-10-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.12596",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.07251",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.05615",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.01892",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.12596",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.12596",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.13075",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.13098",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.13144",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.13330",
+      "date": "2026-10-12"
     }
   ]
 }
