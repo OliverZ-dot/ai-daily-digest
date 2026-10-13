@@ -1,102 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/10/501705.html",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/501700.html",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.03015",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.03574",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.03574",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.02405",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.02599",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.02351",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.02525",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.03056",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.02376",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.02994",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://openai.com/index/eu-text-provenance",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "date": "2026-10-05"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
       "date": "2026-10-06"
     },
@@ -511,6 +415,46 @@
     {
       "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
       "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.08861",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.12881",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.13152",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.13184",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.02626",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.13438",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.09365",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.10268",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.15419",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.12493",
+      "date": "2026-10-13"
     }
   ]
 }
