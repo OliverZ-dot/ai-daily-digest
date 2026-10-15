@@ -1,114 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://openai.com/index/jump-trading",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/501749.html",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.34457",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07127",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.08106",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07751",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.03387",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07473",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07751",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07787",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07835",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07851",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "date": "2026-10-07"
-    },
-    {
       "url": "https://www.qbitai.com/2026/10/501832.html",
       "date": "2026-10-08"
     },
@@ -535,6 +427,78 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
       "date": "2026-10-14"
+    },
+    {
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://openai.com/index/third-moment-research",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/503341.html",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/503326.html",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/503303.html",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/503353.html",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/503350.html",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.17183",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.22583",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20012",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.14389",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.15084",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.21055",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.14382",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.14818",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.15084",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.15750",
+      "date": "2026-10-15"
     }
   ]
 }
