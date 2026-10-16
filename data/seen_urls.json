@@ -1,106 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/10/501832.html",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/501834.html",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/501915.html",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.10409",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.06971",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2508.16821",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.04364",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.09000",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07935",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07948",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.08138",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.08250",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.08327",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/501995.html",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/502081.html",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/502009.html",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://openai.com/index/oracle",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "date": "2026-10-08"
-    },
-    {
       "url": "https://www.qbitai.com/2026/10/502083.html",
       "date": "2026-10-09"
     },
@@ -543,6 +443,54 @@
     {
       "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
       "date": "2026-10-15"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/503611.html",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.21910",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20781",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.27161",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20761",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.22068",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20665",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20675",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20681",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20960",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.21218",
+      "date": "2026-10-16"
     }
   ]
 }
