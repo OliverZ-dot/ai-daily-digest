@@ -1,30 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/asana-browser-agent",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/502364.html",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/502496.html",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/502541.html",
-      "date": "2026-10-10"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
       "date": "2026-10-11"
     },
@@ -419,6 +395,14 @@
     {
       "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
       "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/504067.html",
+      "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/503910.html",
+      "date": "2026-10-18"
     }
   ]
 }
