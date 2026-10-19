@@ -1,14 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "date": "2026-10-11"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.12596",
       "date": "2026-10-12"
     },
@@ -407,6 +399,46 @@
     {
       "url": "https://www.qbitai.com/2026/10/504136.html",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17895",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29001",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.23307",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.22538",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.23256",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.23256",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.22426",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.22469",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.23085",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.23153",
+      "date": "2026-10-19"
     }
   ]
 }
