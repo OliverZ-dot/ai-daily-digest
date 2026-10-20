@@ -1,58 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2610.12596",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.07251",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.05615",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01892",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.12596",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.12596",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.13075",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.13098",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.13144",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.13330",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
-      "date": "2026-10-12"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.08861",
       "date": "2026-10-13"
     },
@@ -467,6 +415,14 @@
     {
       "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
       "date": "2026-10-19"
+    },
+    {
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/504314.html",
+      "date": "2026-10-20"
     }
   ]
 }
