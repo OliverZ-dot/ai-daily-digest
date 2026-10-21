@@ -1,94 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.08861",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.12881",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.13152",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.13184",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.02626",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.13438",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.09365",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10268",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.15419",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.12493",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/503093.html",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-      "date": "2026-10-13"
-    },
-    {
       "url": "https://www.qbitai.com/2026/10/503165.html",
       "date": "2026-10-14"
     },
@@ -455,6 +367,66 @@
     {
       "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
       "date": "2026-10-20"
+    },
+    {
+      "url": "https://openai.com/index/terminal-x",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/504608.html",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/504551.html",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.27626",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.27904",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.26943",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.27120",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.28282",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.26924",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.26943",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.27119",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.27548",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.27904",
+      "date": "2026-10-21"
     }
   ]
 }
