@@ -495,6 +495,34 @@
     {
       "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
       "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "date": "2026-10-22"
     }
   ]
 }
