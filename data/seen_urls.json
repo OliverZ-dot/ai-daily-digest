@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://openai.com/index/third-moment-research",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/503341.html",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/503326.html",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/503303.html",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/503353.html",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/503350.html",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.17183",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.22583",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.20012",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.14389",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.15084",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2505.21055",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.14382",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.14818",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.15084",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.15750",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "date": "2026-10-15"
-    },
-    {
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "date": "2026-10-16"
     },
@@ -523,6 +407,62 @@
     {
       "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
       "date": "2026-10-22"
+    },
+    {
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://openai.com/index/decisions-api",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29249",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.30108",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.16416",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.00272",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29271",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29139",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29934",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.30072",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29249",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.30108",
+      "date": "2026-10-23"
     }
   ]
 }
