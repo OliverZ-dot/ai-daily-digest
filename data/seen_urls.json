@@ -1,62 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/503611.html",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.21910",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.20781",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.27161",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.20761",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.22068",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.20665",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.20675",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.20681",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.20960",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.21218",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "date": "2026-10-16"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "date": "2026-10-17"
     },
@@ -487,6 +431,14 @@
     {
       "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "date": "2026-10-24"
     }
   ]
 }
