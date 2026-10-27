@@ -1,74 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.17895",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.29001",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.23307",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.22538",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.23256",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.23256",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.22426",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.22469",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.23085",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.23153",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "date": "2026-10-19"
-    },
-    {
       "url": "https://openai.com/index/low-resource-programming-languages",
       "date": "2026-10-20"
     },
@@ -491,6 +423,58 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.33544",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.34855",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.35293",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.35500",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.33016",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.34836",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.33432",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.33544",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.33684",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.34491",
+      "date": "2026-10-27"
     }
   ]
 }
