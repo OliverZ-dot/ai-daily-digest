@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/terminal-x",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/504608.html",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/504551.html",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.27626",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.27904",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.26943",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.27120",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.28282",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.26924",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.26943",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.27119",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.27548",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.27904",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/504734.html",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/504730.html",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://openai.com/index/att-legal",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "date": "2026-10-21"
-    },
-    {
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "date": "2026-10-22"
     },
@@ -567,6 +451,34 @@
     {
       "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/506227.html",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/505934.html",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/506281.html",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/506273.html",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/506246.html",
+      "date": "2026-10-29"
     }
   ]
 }
