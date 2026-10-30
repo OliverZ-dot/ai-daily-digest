@@ -1,114 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.29734",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07000",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.27256",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.27347",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.27518",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.28354",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.28176",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.07667",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.24264",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.17544",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-      "date": "2026-10-22"
-    },
-    {
       "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
       "date": "2026-10-23"
     },
@@ -519,6 +411,26 @@
     {
       "url": "https://openai.com/index/updated-model-spec",
       "date": "2026-10-29"
+    },
+    {
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/506674.html",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/506686.html",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/506662.html",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/506609.html",
+      "date": "2026-10-30"
     }
   ]
 }
