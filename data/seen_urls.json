@@ -1,86 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://openai.com/index/decisions-api",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.29249",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.30108",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16416",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00272",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.29271",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.29139",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.29934",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.30072",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.29249",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.30108",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "date": "2026-10-23"
-    },
-    {
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "date": "2026-10-24"
     },
@@ -475,6 +395,54 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.26498",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.38103",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.38405",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.39341",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.23304",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.37935",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.38544",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.38573",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.39003",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.38244",
+      "date": "2026-10-31"
     }
   ]
 }
