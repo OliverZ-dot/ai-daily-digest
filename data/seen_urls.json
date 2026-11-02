@@ -1,14 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "date": "2026-10-25"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.31685",
       "date": "2026-10-26"
     },
@@ -455,6 +447,50 @@
     {
       "url": "https://www.qbitai.com/2026/11/507076.html",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507082.html",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.18421",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.41333",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.42028",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.41732",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.42149",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.42028",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.27954",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.16562",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.35962",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.18421",
+      "date": "2026-11-02"
     }
   ]
 }
