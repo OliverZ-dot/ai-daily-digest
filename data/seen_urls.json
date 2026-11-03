@@ -1,70 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2610.31685",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.32258",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.32332",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.09163",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.32216",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.32022",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.32060",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.32258",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.32813",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.31685",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "date": "2026-10-26"
-    },
-    {
       "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "date": "2026-10-27"
     },
@@ -519,6 +455,78 @@
     {
       "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://openai.com/index/lifeval",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507419.html",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507410.html",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507405.html",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507396.html",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507382.html",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507367.html",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.41951",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.15620",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.23977",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.06570",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.26038",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.12787",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.23143",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.41172",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.41272",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.41291",
+      "date": "2026-11-03"
     }
   ]
 }
