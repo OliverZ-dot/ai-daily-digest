@@ -1,102 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/retell-ai",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/505928.html",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/505719.html",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/505694.html",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.36484",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.06375",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03918",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23238",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.19358",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.36325",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.36335",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.37375",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.22508",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03918",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://openai.com/index/legora",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "date": "2026-10-28"
-    },
-    {
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "date": "2026-10-29"
     },
@@ -555,6 +459,66 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
       "date": "2026-11-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507707.html",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507696.html",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507767.html",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507757.html",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/507697.html",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.06259",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.05771",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.16857",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.06553",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.06732",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.05393",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.05671",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.05953",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.06662",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.16857",
+      "date": "2026-11-05"
     }
   ]
 }
