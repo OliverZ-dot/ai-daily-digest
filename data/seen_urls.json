@@ -1,74 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/506227.html",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/505934.html",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/506281.html",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/506273.html",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/506246.html",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://openai.com/index/updated-model-spec",
-      "date": "2026-10-29"
-    },
-    {
       "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "date": "2026-10-30"
     },
@@ -563,6 +495,66 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.14546",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07541",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.08369",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07689",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07408",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07482",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07689",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.08196",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07408",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07586",
+      "date": "2026-11-06"
     }
   ]
 }
