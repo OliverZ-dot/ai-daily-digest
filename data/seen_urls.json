@@ -1,70 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/506674.html",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/506686.html",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/506662.html",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/506609.html",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/506785.html",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/506819.html",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "date": "2026-10-30"
-    },
-    {
       "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "date": "2026-10-31"
     },
@@ -587,6 +523,14 @@
     {
       "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
       "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/508155.html",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "date": "2026-11-07"
     }
   ]
 }
