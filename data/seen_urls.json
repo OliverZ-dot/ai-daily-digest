@@ -1,22 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/10/506904.html",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/506922.html",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507038.html",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507076.html",
-      "date": "2026-11-01"
-    },
-    {
       "url": "https://www.qbitai.com/2026/11/507082.html",
       "date": "2026-11-02"
     },
@@ -499,6 +483,10 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
       "date": "2026-11-08"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "date": "2026-11-09"
     }
   ]
 }
