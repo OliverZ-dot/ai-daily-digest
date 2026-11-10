@@ -1,78 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/11/507082.html",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.18421",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.41333",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.42028",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.41732",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.42149",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.42028",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.27954",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.16562",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.35962",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.18421",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://openai.com/index/grid-protectors-program",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "date": "2026-11-02"
-    },
-    {
       "url": "https://openai.com/index/lifeval",
       "date": "2026-11-03"
     },
@@ -523,6 +451,18 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/508706.html",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://openai.com/index/control-room",
+      "date": "2026-11-10"
     }
   ]
 }
