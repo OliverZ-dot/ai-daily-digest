@@ -1,134 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/lifeval",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507322.html",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507419.html",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507410.html",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507405.html",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507396.html",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507382.html",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507367.html",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.41951",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.15620",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2505.23977",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.06570",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.26038",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.12787",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.23143",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.41172",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.41272",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.41291",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-      "date": "2026-11-03"
-    },
-    {
       "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "date": "2026-11-04"
     },
@@ -511,6 +383,66 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
       "date": "2026-11-10"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.13325",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.10552",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.02357",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.12975",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.10552",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.13144",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.13454",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.13028",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.13114",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.13369",
+      "date": "2026-11-11"
     }
   ]
 }
