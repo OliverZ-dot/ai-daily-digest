@@ -1,66 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://openai.com/index/heimstaden",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507533.html",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "date": "2026-11-04"
-    },
-    {
       "url": "https://www.qbitai.com/2026/11/507707.html",
       "date": "2026-11-05"
     },
@@ -459,6 +399,14 @@
     {
       "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
       "date": "2026-11-11"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/509285.html",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "date": "2026-11-12"
     }
   ]
 }
