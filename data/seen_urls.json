@@ -1,110 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/11/507707.html",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507696.html",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507767.html",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507757.html",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/507697.html",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.06259",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.05771",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16857",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.06553",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.06732",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.05393",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.05671",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.05953",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.06662",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16857",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "date": "2026-11-05"
-    },
-    {
       "url": "https://openai.com/index/introducing-gpt-6-cyber",
       "date": "2026-11-06"
     },
@@ -459,6 +355,18 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "date": "2026-11-13"
     }
   ]
 }
