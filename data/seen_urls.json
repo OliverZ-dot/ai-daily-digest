@@ -1,98 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2501.14546",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07541",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.08369",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07689",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07408",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07482",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07689",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.08196",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07408",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07586",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "date": "2026-11-06"
-    },
-    {
       "url": "https://www.qbitai.com/2026/11/508155.html",
       "date": "2026-11-07"
     },
@@ -395,6 +303,54 @@
     {
       "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://openai.com/business/customer-stories/shield",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.14935",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.03685",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.12305",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.14942",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.15831",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.14889",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.15843",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.17114",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.17220",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.03303",
+      "date": "2026-11-14"
     }
   ]
 }
