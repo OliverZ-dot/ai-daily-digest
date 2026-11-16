@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "date": "2026-11-08"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
       "date": "2026-11-09"
     },
@@ -343,6 +339,50 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.17797",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.17846",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.17955",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.06008",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.17955",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.17797",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.17820",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.18514",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.18531",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.17398",
+      "date": "2026-11-16"
     }
   ]
 }
