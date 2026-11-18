@@ -1,66 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/508706.html",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://openai.com/index/control-room",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "date": "2026-11-10"
-    },
-    {
       "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "date": "2026-11-11"
     },
@@ -435,6 +375,66 @@
     {
       "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
       "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/510707.html",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/510811.html",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/510821.html",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/510737.html",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.33319",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.21690",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.22033",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.22234",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.22138",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.22033",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.22310",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.22511",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.22591",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.21633",
+      "date": "2026-11-18"
     }
   ]
 }
