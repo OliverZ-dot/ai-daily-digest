@@ -1,66 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/11/509285.html",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/509440.html",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://openai.com/index/amplitude",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "date": "2026-11-12"
-    },
-    {
       "url": "https://openai.com/business/customer-stories/gondola",
       "date": "2026-11-13"
     },
@@ -503,6 +443,58 @@
     {
       "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/511582.html",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/511603.html",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.22992",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.23410",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.24552",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.23891",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.24651",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.24004",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.24294",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.24406",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.23403",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.22992",
+      "date": "2026-11-20"
     }
   ]
 }
