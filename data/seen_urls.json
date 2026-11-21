@@ -1,46 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "date": "2026-11-13"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
       "date": "2026-11-14"
     },
@@ -511,6 +471,14 @@
     {
       "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
       "date": "2026-11-20"
+    },
+    {
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/511610.html",
+      "date": "2026-11-21"
     }
   ]
 }
