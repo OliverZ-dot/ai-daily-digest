@@ -1,14 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "date": "2026-11-15"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "date": "2026-11-15"
-    },
-    {
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
       "date": "2026-11-16"
     },
@@ -443,6 +435,46 @@
     {
       "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
       "date": "2026-11-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27741",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.13217",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27443",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27443",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.26870",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27741",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27443",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.03955",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.10285",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.03100",
+      "date": "2026-11-23"
     }
   ]
 }
