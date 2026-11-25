@@ -1,42 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/11/510695.html",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "date": "2026-11-17"
-    },
-    {
       "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
       "date": "2026-11-18"
     },
@@ -471,6 +435,30 @@
     {
       "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
       "date": "2026-11-24"
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/512478.html",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/512538.html",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/512532.html",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/512515.html",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/512498.html",
+      "date": "2026-11-25"
     }
   ]
 }
