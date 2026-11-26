@@ -439,6 +439,14 @@
     {
       "url": "https://arxiv.org/abs/2511.21460",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/513021.html",
+      "date": "2026-11-26"
     }
   ]
 }
